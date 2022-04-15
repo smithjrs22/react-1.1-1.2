@@ -1,6 +1,5 @@
 import ReactDOM from 'react-dom'
-// import App from './App'; below reflects the new location//
-import App from './components/App'
+import App from './component/App'
 
 ReactDOM.render(
   <App />, 
