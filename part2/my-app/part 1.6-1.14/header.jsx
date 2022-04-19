@@ -1,13 +1,13 @@
 
 //1.5
 let Header = ({course}) => {
+    console.log(course)
     return (
         <>
             {course}
         </>
     );
 }
-
 
 //1.4
 // let Header = ({course}) => {

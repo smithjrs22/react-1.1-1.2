@@ -3,15 +3,15 @@
 import Part from './part'
 
 //1.5
-// let Content = (prop) => {
-//     return (
-//         <div>
-//             <Part part = {prop.course.parts[0]}/>
-//             <Part part = {prop.course.parts[1]}/>
-//             <Part part = {prop.course.parts[2]}/>
-//         </div>
-//         );
-//     };
+let Content = (prop) => {
+    return (
+        <div>
+            <Part part = {prop.course.parts[0]}/>
+            <Part part = {prop.course.parts[1]}/>
+            <Part part = {prop.course.parts[2]}/>
+        </div>
+        );
+    };
 
 //1.4
 // let Content = (prop) => {

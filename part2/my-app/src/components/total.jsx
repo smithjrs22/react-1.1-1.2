@@ -1,6 +1,9 @@
 import Part from "./part";
 
 //1.5
+
+//1.5
+
 let Total = ({exercises123}) => {
     console.log(exercises123)
     return (
